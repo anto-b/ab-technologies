@@ -1,1 +1,1 @@
-## Per cominciare clicca su un esercizi, leggi la traccia e risolvi l'esercizio! E se non dovessi riuscire a risolverlo, puoi sempre vedere la soluzione!
+## Per cominciare clicca su un esercizio, leggi la traccia e risolvi l'esercizio! E se non dovessi riuscire a risolverlo, puoi sempre vedere la soluzione!
