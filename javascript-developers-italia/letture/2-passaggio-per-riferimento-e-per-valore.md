@@ -120,7 +120,7 @@ Riassumendo, quando si lavora con tipi di dato primitivi il valore del dato è e
 Supponiamo adesso di lavorare con tipi di dati complessi, e rifacciamoci al seguente esempio
 
 <div align="center">
-        <img src="https://telegra.ph/file/19c5a4e5495603311c14e.png" width="960" height="260"/>
+        <img src="https://telegra.ph/file/19c5a4e5495603311c14e.png" width="690" height="260"/>
 </div>
 Osserviamo che alla riga 1 viene definita una variabile a contenente *l'oggetto* 
 
