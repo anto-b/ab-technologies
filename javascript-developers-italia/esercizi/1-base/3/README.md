@@ -32,4 +32,4 @@ Effettuando i passi 1 e 2, non bisogna in alcun modo alterare i valori già pres
 
 <br>
 
-##### ***[Soluzione](./3b-soluzione/ "soluzione-esercizio")***
+##### ***[Soluzione](./3-soluzione/ "soluzione-esercizio")***

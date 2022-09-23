@@ -5,4 +5,4 @@
 
 <br>
 
-##### ***[Soluzione](./1b-soluzione/ "soluzione-esercizio")***
+##### ***[Soluzione](./1-soluzione/ "soluzione-esercizio")***

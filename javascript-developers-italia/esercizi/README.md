@@ -5,6 +5,6 @@
 <br>
 
 ## Indice
-* ***[Base 📗](./1-base/ "esercizi-link")***
-* ***[Intermedio 📒](./2-intermedi/ "esercizi-link")***
-* ***[Avanzato 📕](./3-avanzati/ "esercizi-link")***
+* ***[Esercizi base 📗](./1-base/ "esercizi-link")***
+* ***[Esercizi intermedi 📒](./2-intermedi/ "esercizi-link")***
+* ***[Esercizi avanzati 📕](./3-avanzati/ "esercizi-link")***

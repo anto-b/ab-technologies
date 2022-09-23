@@ -21,4 +21,4 @@ Dopo aver creato un documento HTML costituito esclusivamente da head e body, uti
 
 <br>
 
-##### ***[Soluzione](./2b-soluzione/ "soluzione-esercizio")***
+##### ***[Soluzione](./2-soluzione/ "soluzione-esercizio")***
