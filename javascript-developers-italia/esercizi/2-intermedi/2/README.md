@@ -7,7 +7,7 @@ L'obiettivo è eliminare questi caratteri alfa-numerici e restituire la stringa 
 <br>
 
 >ESEMPIO:
->La stringa "HelloWorld", viene casualmente criptata così "d89%l++5r19o7W *o=l645le9H". <br> 
+>La stringa "HelloWorld", viene casualmente criptata così "d89%l++5r19o7W *o=l645le9H". <br> <br>
 L'algoritmo deve:
 >1. Rimuovere i caratteri non alfabetici e quindi restituire "dlroWolleH"
 >2. ribaltare la stringa e restituire "HelloWorld".
