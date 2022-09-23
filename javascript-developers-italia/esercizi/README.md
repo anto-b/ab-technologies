@@ -1,6 +1,6 @@
 # Benvenuto nella sezione esercizi 📚
 
-### Ogni esercizio comprende tracci e soluzione, <br> scegli la difficoltà e comincia il tuo allenamento! 
+### Ogni esercizio comprende traccia e soluzione, <br> scegli la difficoltà e comincia il tuo allenamento! 
 
 <br>
 
