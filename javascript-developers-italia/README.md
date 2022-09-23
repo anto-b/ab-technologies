@@ -16,4 +16,5 @@
 ## Indice
 * ***[Corsi 🧑‍🎓](./corsi/ "corsi-link")***
 * ***[Guide 🧑‍💼](./guide/ "guide-link")***
+* ***[Letture 🧑‍🏫](./letture/ "letture-link")***
 * ***[Esercizi 🧑‍🔧](./esercizi/ "esercizi-link")***
