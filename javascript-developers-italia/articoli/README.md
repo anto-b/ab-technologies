@@ -1,4 +1,4 @@
-# Benvenuto nella sezione letture 📚
+# Benvenuto nella sezione articoli 📚
 
 ### In questa sezione potrai leggere e consultare articoli fondamentali per approfondire la tua conoscenza di Javascript
 
